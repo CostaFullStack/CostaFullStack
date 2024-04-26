@@ -35,5 +35,5 @@ Sou um desenvolvedor Full Stack com paixão por transformar ideias em realidade 
 ✅ My skills <br /> <br />
 
 <span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </span>
