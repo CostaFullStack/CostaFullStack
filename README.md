@@ -18,6 +18,6 @@ Sou um desenvolvedor Full Stack com paixão por transformar ideias em realidade 
 ## Linguagens e Ferramentas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaFullStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="[link do linkedin](https://github.com/CostaFullStack)">
+<a href="https://www.linkedin.com/in/matheus-costa-215144306/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
