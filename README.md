@@ -1,7 +1,7 @@
 # Olá, eu sou Matheus Costa Gomes! 👋
 
 ## Sobre Mim
-Sou um desenvolvedor Full Stack com paixão por transformar ideias em realidade usando código. Atualmente estou focado inicalmente em Python e futuramente aprenderei outras linguagens como Django, HTML,CSS,JavaScript,Java e etc. E sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
+Sou um desenvolvedor Full Stack com paixão por transformar ideias em realidade usando código. Atualmente estou focado inicalmente em Python e futuramente aprenderei outras linguagens como Django, HTML, CSS, JavaScript, Java e etc. E sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
 - 🔭 Atualmente estou estudando Programação Full Stack na instituição Infinity High School em Fortaleza
 - 🌱 Estou aprendendo a linguagem Python
@@ -10,3 +10,12 @@ Sou um desenvolvedor Full Stack com paixão por transformar ideias em realidade 
 - 💬 Pergunte-me sobre Python, JavaScript, Django, VSCode, HTML, CSS, Java
 - 📫 Como entrar em contato comigo: matheuscuisine@gmail.com
 - ⚡ Curiosidade: Sou uma pessoa consistente
+- 
+## Minhas Estatísticas
+]
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaFullStack&show_icons=true)
+
+## Linguagens e Ferramentas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaFullStack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
