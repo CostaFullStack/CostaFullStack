@@ -21,3 +21,11 @@ Sou um desenvolvedor Full Stack com paixão por transformar ideias em realidade 
 <a href="https://www.linkedin.com/in/matheus-costa-215144306/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:matheuscuisine@gmail.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="[link do linkedin](https://www.instagram.com/mathmustdie/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
