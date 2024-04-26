@@ -10,9 +10,8 @@ Sou um desenvolvedor Full Stack com paixão por transformar ideias em realidade 
 - 💬 Pergunte-me sobre Python, JavaScript, Django, VSCode, HTML, CSS, Java
 - 📫 Como entrar em contato comigo: matheuscuisine@gmail.com
 - ⚡ Curiosidade: Sou uma pessoa consistente
-- 
+
 ## Minhas Estatísticas
-]
 
 ![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaFullStack&show_icons=true)
 
