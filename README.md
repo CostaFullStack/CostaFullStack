@@ -4,7 +4,7 @@
 Sou um desenvolvedor Full Stack com paixão por transformar ideias em realidade usando código. Atualmente estou focado inicialmente em Python e futuramente aprenderei outras linguagens como Django, HTML, CSS, JavaScript, Java e etc. Sempre estou explorando novas tecnologias e tendências no mundo do desenvolvimento.
 
 - 🔭 Atualmente estou estudando Programação Full Stack na instituição Infinity High School em Fortaleza
-- 🌱 Estou aprendendo a linguagem Python
+- 🌱 Estou aprendendo a linguagem de Python, JavaScript e HTML e CSS
 - 👯 Estou procurando colaborar em questões de Python envolvendo lógica de programação, listas, tuplas, sets, dicionários, funções, bibliotecas, Tkinter, POO e banco de dados
 - 🤔 Estou procurando ajuda com questões para absorver o aprendizado realizado na sala de aula
 - 💬 Pergunte-me sobre Python, JavaScript, Django, VSCode, HTML, CSS, Java
